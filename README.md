@@ -1,4 +1,4 @@
-# ECOMMERCE-SALES-DASHBOARD
+# ECOMMERCE-SALES Using python + MySql
 🛍️ E-commerce Sales Analysis Project (MySQL + Python)
 This project focuses on end-to-end data analysis of an e-commerce platform using MySQL and Python. I explored business-critical metrics like sales performance, customer behavior, retention rate, seller performance, and revenue trends. The project demonstrates SQL proficiency, data visualization skills, and analytical thinking applied to real-world business questions.
 
